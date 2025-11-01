@@ -18,9 +18,7 @@
 - [Project Structure](#project-structure)
 - [Results](#results)
 - [Configuration](#configuration)
-- [Citation](#citation)
 - [License](#license)
-- [Contact](#contact)
 
 ---
 
