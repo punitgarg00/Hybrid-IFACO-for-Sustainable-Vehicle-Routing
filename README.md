@@ -557,53 +557,11 @@ def update_pheromone(pheromone_matrix, best_ant, rho, Q):
 
 ---
 
-## 📚 References
-
-1. Solomon, M. M. (1987). "Algorithms for the vehicle routing and scheduling problems with time window constraints." *Operations Research*, 35(2), 254-265.
-
-2. Dorigo, M., Maniezzo, V., & Colorni, A. (1996). "Ant system: optimization by a colony of cooperating agents." *IEEE Transactions on Systems, Man, and Cybernetics*, 26(1), 29-41.
-
-3. Li, X., Keegan, B., & Mtenzi, F. (2018). "Energy efficient hybrid routing protocol based on the artificial fish swarm algorithm and ant colony optimisation for WSNs." *Sensors*, 18(10), 3351.
-
-4. Barth, M., & Boriboonsomsin, K. (2008). "Real-world carbon dioxide impacts of traffic congestion." *Transportation Research Record*, 2058, 163-171.
-
----
-
-## 📄 Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@software{hybrid_ifaco_vrptw,
-  author = {Your Name},
-  title = {Hybrid IFACO for Multi-Objective VRPTW with CO₂ Emission Optimization},
-  year = {2025},
-  publisher = {GitHub},
-  url = {https://github.com/yourusername/hybrid-ifaco-vrptw}
-}
-```
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
-### Development Setup
 
-```bash
-git clone https://github.com/yourusername/hybrid-ifaco-vrptw.git
-cd hybrid-ifaco-vrptw
-pip install -r requirements-dev.txt
-```
-
-### Running Tests
-
-```bash
-python -m pytest tests/
-```
-
----
 
 ## 📝 License
 
@@ -611,14 +569,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👤 Contact
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-
----
 
 ## 🙏 Acknowledgments
 
@@ -651,20 +602,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] REST API for algorithm as a service
 - [ ] Support for additional Solomon instance types (R, RC series)
 
----
-
-## ⭐ Star History
-
-If you find this project useful, please consider giving it a star on GitHub!
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/hybrid-ifaco-vrptw&type=Date)](https://star-history.com/#yourusername/hybrid-ifaco-vrptw&Date)
-
----
-
-<div align="center">
-
-**Made with ❤️ for sustainable logistics**
-
-[⬆ Back to Top](#-hybrid-ifaco-for-multi-objective-vrptw-with-co₂-emission-optimization)
-
-</div>
